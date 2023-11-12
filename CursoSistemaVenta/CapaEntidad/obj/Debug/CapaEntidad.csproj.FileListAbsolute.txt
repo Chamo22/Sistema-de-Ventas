@@ -1,0 +1,6 @@
+C:\Users\fabia\Documents\Proyecto-final\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+C:\Users\fabia\Documents\Proyecto-final\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+C:\Users\fabia\Documents\Proyecto-final\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.dll
+C:\Users\fabia\Documents\Proyecto-final\CursoSistemaVenta\CapaEntidad\bin\Debug\CapaEntidad.pdb
+C:\Users\fabia\Documents\Proyecto-final\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.dll
+C:\Users\fabia\Documents\Proyecto-final\CursoSistemaVenta\CapaEntidad\obj\Debug\CapaEntidad.pdb
